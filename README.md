@@ -11,7 +11,7 @@ Greetings.  I'm Bryan, and this is the Repository for my Project One (and ultima
 URL for Project One
 -------------
 
-##**[http://p1.allebone.me](http://p1.allebone/me)**
+##**[http://p1.allebone.me](http://p1.allebone.me)**
 
 
 > **Note:**
@@ -46,7 +46,7 @@ The following items were included for attached rationale:
 
  --**Twitter Bootstrap Framework**
  
-	[Bootstrap GitHub](https://github.com/twbs/bootstrap)
+>	[Bootstrap GitHub](https://github.com/twbs/bootstrap)
 	
 	Utilizing the Bootstrap Framework gave me the opportunity to uniformly present information within my site. Its requisite theme from CSS is also represented below as a utilized dependency. The color mapping, sized character depictions, and quick implementation of anchored areas are unparallelled for a fledgling designer. 
 	
